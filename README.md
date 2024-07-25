@@ -1,7 +1,3 @@
-Here's a comprehensive README for your GitHub project based on the details provided:
-
----
-
 # Yelp Project: Analyzing Factors Affecting Customer Satisfaction with Top Non-American Ethnic Cuisines in the US
 
 ## Overview
