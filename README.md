@@ -1,6 +1,6 @@
 # Yelp Project: Analyzing Factors Affecting Customer Satisfaction with Top Non-American Ethnic Cuisines in the US
 
-## Overvie
+## Overview
 This project analyzes factors affecting customer satisfaction with top non-American ethnic cuisines in the US, focusing on Chinese, Japanese, Italian, and Mexican cuisines. Using Yelp restaurant data, the objective is to explore and understand the dynamics driving customer preferences and satisfaction.
 
 ## Motivation
