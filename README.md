@@ -10,7 +10,7 @@ Understanding customer satisfaction is crucial for restaurant success. This proj
 1. **Yelp Data**: Includes business information, reviews, and tips for restaurants.
 2. **US Census Data**: Provides demographic information for areas where restaurants are located.
 
-## Data Collection
+## Data Collectio
 - **RIAA Web Scraping**: Collected data on songs and artists from the Record Industry Association of America (RIAA).
 - **SpotiPY**: Used the Spotify API to gather audio features and genres for tracks.
 
