@@ -6,7 +6,7 @@ This project analyzes factors affecting customer satisfaction with top non-Ameri
 ## Motivation
 Understanding customer satisfaction is crucial for restaurant success. This project seeks to determine which factors influence the popularity of different ethnic cuisines and whether there are discernible patterns in customer reviews and ratings. The insights gained can provide valuable information to stakeholders in the food industry and contribute to a deeper understanding of culinary diversity in the United States.
 
-## Data Sources
+## Data Source
 1. **Yelp Data**: Includes business information, reviews, and tips for restaurants.
 2. **US Census Data**: Provides demographic information for areas where restaurants are located.
 
