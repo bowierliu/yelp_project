@@ -14,7 +14,7 @@ Understanding customer satisfaction is crucial for restaurant success. This proj
 - **RIAA Web Scraping**: Collected data on songs and artists from the Record Industry Association of America (RIAA).
 - **SpotiPY**: Used the Spotify API to gather audio features and genres for tracks.
 
-## Data PreparatioN
+## Data Preparatio
 - Cleaned and transformed Yelp data into pandas data frames.
 - Retrieved and processed US Census data for relevant demographic features.
 - Merged and aggregated data to create comprehensive datasets for analysis.
