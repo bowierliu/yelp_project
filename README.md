@@ -28,7 +28,7 @@ Understanding customer satisfaction is crucial for restaurant success. This proj
 - Converted categorical variables into numerical values through one-hot encoding.
 - Normalized demographic features to account for variations in population density.
 
-## Modelin
+## Modeling
 - Developed machine learning models to predict customer satisfaction based on features:
   - **Logistic Regression**
   - **Random Forest Classifier**
