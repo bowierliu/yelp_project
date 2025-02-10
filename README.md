@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes factors affecting customer satisfaction with top non-American ethnic cuisines in the US, focusing on Chinese, Japanese, Italian, and Mexican cuisines. Using Yelp restaurant data, the objective is to explore and understand the dynamics driving customer preferences and satisfaction.
 
-## Motivatio
+## Motivation
 Understanding customer satisfaction is crucial for restaurant success. This project seeks to determine which factors influence the popularity of different ethnic cuisines and whether there are discernible patterns in customer reviews and ratings. The insights gained can provide valuable information to stakeholders in the food industry and contribute to a deeper understanding of culinary diversity in the United States.
 
 ## Data Sources
